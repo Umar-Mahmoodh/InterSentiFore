@@ -42,7 +42,7 @@ const Home = () => {
           <div className='grid grid-cols-3 gap-32'>
             <div className='col-span-2'>
 
-              <h2 className='text-[60px] font-medium'>Explainable AI</h2>
+              <h2 className='text-[60px] font-medium'>Explainable AI </h2>
               <p className='text-[18px] text-[#838282] my-2'>Lorem ipsum dolor sit amet consectetur. A amet vel in auctor. In tempus et viverra mollis. Viverra quisque orci nec risus nisl proin duis</p>
 
             </div>
